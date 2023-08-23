@@ -12,7 +12,7 @@ WeatherSphere is a user-friendly web application built with React that allows us
 
 - **Detailed Weather Information:** Access comprehensive weather details, including humidity, sunrise and sunset times, atmospheric pressure, and wind speed.
 
-- **Dynamic Updates:** The application provides real-time weather data, offering the most current and accurate information available.
+- **Dynamic Updates:** The application provides real-time weather data using OpenWeather API, offering the most current and accurate information available.
 
 - **Error Handling:** Friendly error messages guide users in case of misspelled city names, API request issues, or connectivity problems.
 
